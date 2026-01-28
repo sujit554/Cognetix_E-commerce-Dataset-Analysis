@@ -30,5 +30,3 @@ Analyze sales data to extract business insights such as revenue trends, top prod
 - Market dominance by country
 - Order behavior analysis
 
-## Author
-Sujit
